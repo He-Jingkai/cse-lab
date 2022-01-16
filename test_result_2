@@ -1,0 +1,107 @@
+Building lab3 tests
+Testing  part1.leader_election
+pass
+pass
+pass
+Pass  part1.leader_election
+Testing  part1.re_election
+pass
+pass
+pass
+Pass  part1.re_election
+Testing  part2.basic_agree
+pass
+pass
+pass
+Pass  part2.basic_agree
+Testing  part2.fail_agree
+pass
+pass
+pass
+Pass  part2.fail_agree
+Testing  part2.fail_no_agree
+pass
+pass
+pass
+Pass  part2.fail_no_agree
+Testing  part2.concurrent_start
+pass
+pass
+pass
+Pass  part2.concurrent_start
+Testing  part2.rejoin
+pass
+pass
+pass
+Pass  part2.rejoin
+Testing  part2.backup
+pass
+pass
+pass
+Pass  part2.backup
+Testing  part2.rpc_count
+pass
+pass
+pass
+Pass  part2.rpc_count
+Testing  part3.persist1
+pass
+pass
+pass
+Pass  part3.persist1
+Testing  part3.persist2
+pass
+pass
+pass
+Pass  part3.persist2
+Testing  part3.persist3
+pass
+pass
+pass
+Pass  part3.persist3
+Testing  part3.figure8
+fail
+pass
+pass
+Pass  part3.figure8
+Testing  part3.unreliable_agree
+pass
+pass
+pass
+Pass  part3.unreliable_agree
+Testing  part3.unreliable_figure_8
+pass
+pass
+pass
+Pass  part3.unreliable_figure_8
+Testing  part4.basic_snapshot
+pass
+pass
+pass
+Pass  part4.basic_snapshot
+Testing  part4.restore_snapshot
+pass
+pass
+pass
+Pass  part4.restore_snapshot
+Testing  part4.override_snapshot
+pass
+pass
+pass
+Pass  part4.override_snapshot
+Testing  part5.basic_kv
+pass
+pass
+pass
+Pass  part5.basic_kv
+Testing  part5.persist_kv
+pass
+pass
+pass
+Pass  part5.persist_kv
+Testing  part5.snapshot_kv
+pass
+pass
+pass
+Pass  part5.snapshot_kv
+Final score: 100 /100
